@@ -58,7 +58,7 @@ async function generateEducationalContent(req, res) {
       },
       audioConfig: {
         audioEncoding: 'MP3',
-        speakingRate: 1.5,
+        speakingRate: 1.2,
         pitch: 2.0,
       },
     };
