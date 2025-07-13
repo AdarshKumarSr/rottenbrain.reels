@@ -14,7 +14,7 @@ const BUCKET_NAME = 'rotten-brains-reel-audios';
 const langs = {
   "hindi" : [ "hi-IN", "hi-IN-Wavenet-A", "MALE" ],
   "gujarati" : [ "gu-IN", "gu-IN-Standard-A", "FEMALE" ],
-  "english" : ['en-US', 'en-US-Neural2-D', "MALE"]
+  "english" : ['en-US', 'en-US-Studio-M', "MALE"]
 }
 
 async function generateEducationalContent(req, res) {
